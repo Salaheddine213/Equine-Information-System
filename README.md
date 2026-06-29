@@ -1,69 +1,92 @@
-# 🐎 Equine Information System
+# 🐎 Equestrian Farm Management System
 
-> Enterprise Information System for Horse Stud Farm Management developed with **WINDEV** and **HFSQL**.
+A modern desktop management system developed with WinDev for managing an equestrian farm.
 
----
+## 📌 Overview
 
-## 📖 Overview
+This application helps equestrian farms manage horses, owners, employees, breeding operations, veterinary records, and daily activities through a user-friendly interface.
 
-The Equine Information System is a desktop application designed to digitalize and optimize horse stud farm management.
+## ✨ Features
 
-It centralizes horse registration, genealogy tracking, breeding management, foaling, veterinary records, incident management, dashboards, reporting, and data visualization.
-
----
-
-## ✨ Key Features
-
-- 🐴 Horse Registration
-- 🌳 Genealogy Tracking
-- ❤️ Veterinary Records
-- 🐎 Breeding Management
-- 👶 Foaling Management
-- ⚠️ Incident Management
-- 👨‍🌾 Employee Management
-- 📊 Dashboards
-- 📑 Reports
-- 📈 Data Visualization
-- 🔐 Secure Authentication
-
----
+- Secure Login
+- Dashboard
+- Horse Management
+- Owner Management
+- Employee Management
+- Veterinary Records
+- Breeding Management
+- Reports & Statistics
+- User Administration
 
 ## 🛠 Technologies
 
-- WINDEV
-- WLanguage
+- WinDev
 - HFSQL Database
-- Desktop Information System
+- WLanguage
 
-## Project Objectives
+## 📸 Screenshots
 
-- Digital transformation of horse stud farm management.
-- Improve operational efficiency.
-- Centralize all equine information.
-- Facilitate decision-making through dashboards and reports.
-- Ensure reliable data management.
+### Login
 
-## 🏗 Architecture
+![](screenshots/login.png)
 
-The application follows a modular architecture where each module communicates with a centralized HFSQL database to ensure data consistency, integrity, and performance.
+### Dashboard
 
----
-## 📷 Application Preview
+![](screenshots/dashboard.png)
 
-> Screenshots will be added soon
+### Horses
 
----
+![](screenshots/horses.png)
+
+### Horse Details
+
+![](screenshots/horse-details.png)
+
+### Owners
+
+![](screenshots/owners.png)
+
+### Employees
+
+![](screenshots/employees.png)
+
+### Breeding
+
+![](screenshots/breeding.png)
+
+### Medical Records
+
+![](screenshots/medical-records.png)
+
+### Reports
+
+![](screenshots/reports.png)
+
+### Settings
+
+![](screenshots/settings.png)
+
+## 📂 Project Structure
+
+```
+Project
+│
+├── Analysis
+├── Source Code
+├── Database
+├── Images
+└── Documentation
+```
 
 ## 👨‍💻 Author
 
 **Ouared Salah Eddine**
 
-Master's Student in Computer Science (software engineering)
+Master's Student in Software Engineering
 
-**Areas of Interest**
-
+Interested in:
 - Artificial Intelligence
 - Machine Learning
-- Information Systems
-- Software Engineering
 - Medical AI
+- Software Engineering
+- LLM

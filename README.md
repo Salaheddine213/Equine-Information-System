@@ -28,43 +28,43 @@ This application helps equestrian farms manage horses, owners, employees, breedi
 
 ### Login
 
-![](screenshots/login.png)
+![](screenshots/login.jpg)
 
 ### Dashboard
 
-![](screenshots/dashboard.png)
+![](screenshots/dashboard.jpg)
 
 ### Horses
 
-![](screenshots/horses.png)
+![](screenshots/horses.jpg)
 
 ### Horse Details
 
-![](screenshots/horse-details.png)
+![](screenshots/horse-details.jpg)
 
 ### Owners
 
-![](screenshots/owners.png)
+![](screenshots/owners.jpg)
 
 ### Employees
 
-![](screenshots/employees.png)
+![](screenshots/employees.jpg)
 
 ### Breeding
 
-![](screenshots/breeding.png)
+![](screenshots/breeding.jpg)
 
 ### Medical Records
 
-![](screenshots/medical-records.png)
+![](screenshots/medical-records.jpg)
 
 ### Reports
 
-![](screenshots/reports.png)
+![](screenshots/reports.jpg)
 
 ### Settings
 
-![](screenshots/settings.png)
+![](screenshots/settings.jpg)
 
 ## 📂 Project Structure
 

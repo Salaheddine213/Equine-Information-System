@@ -1,92 +1,170 @@
-# 🐎 Equestrian Farm Management System
+<div align="center">
 
-A modern desktop management system developed with WinDev for managing an equestrian farm.
+# 🐎 Equine Information System
 
-## 📌 Overview
+### Modern Desktop Management System for Horse Farms
 
-This application helps equestrian farms manage horses, owners, employees, breeding operations, veterinary records, and daily activities through a user-friendly interface.
+A professional desktop application developed with **WinDev** for managing horses, owners, breeding operations, employees and veterinary records.
 
-## ✨ Features
+![WinDev](https://img.shields.io/badge/WinDev-28-blue)
+![HFSQL](https://img.shields.io/badge/Database-HFSQL-orange)
+![Desktop](https://img.shields.io/badge/Application-Desktop-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-- Secure Login
-- Dashboard
-- Horse Management
-- Owner Management
-- Employee Management
-- Veterinary Records
-- Breeding Management
-- Reports & Statistics
-- User Administration
+</div>
 
-## 🛠 Technologies
+---
 
-- WinDev
-- HFSQL Database
-- WLanguage
+# 📖 Overview
 
-## 📸 Screenshots
+The **Equine Information System** is a desktop management application designed to simplify the administration of equestrian farms.
 
-### Login
+The system centralizes horse information, breeding records, employee management, veterinary monitoring and reporting in a single user-friendly application.
+
+---
+
+# ✨ Features
+
+- 🔐 Secure Authentication
+- 📊 Interactive Dashboard
+- 🐎 Horse Management
+- 👤 Owner Management
+- 👨‍💼 Employee Management
+- 🩺 Veterinary Records
+- ❤️ Breeding Management
+- 📈 Reports & Statistics
+- ⚙️ User Administration
+
+---
+
+# 🛠 Technologies
+
+| Technology | Description |
+|------------|-------------|
+| WinDev | Desktop Development |
+| WLanguage | Programming Language |
+| HFSQL | Database |
+| Windows | Operating System |
+
+---
+
+# 📸 Application Screenshots
+
+## Login
 
 ![](screenshots/login.jpg)
 
-### Dashboard
+---
+
+## Dashboard
 
 ![](screenshots/dashboard.jpg)
 
-### Horses
+---
+
+## Horses
 
 ![](screenshots/horses.jpg)
 
-### Horse Details
+---
+
+## Horse Details
 
 ![](screenshots/horse-details.jpg)
 
-### Owners
+---
+
+## Owners
 
 ![](screenshots/owners.jpg)
 
-### Employees
+---
+
+## Employees
 
 ![](screenshots/employees.jpg)
 
-### Breeding
+---
+
+## Breeding
 
 ![](screenshots/breeding.jpg)
 
-### Medical Records
+---
+
+## Medical Records
 
 ![](screenshots/medical-records.jpg)
 
-### Reports
+---
+
+## Reports
 
 ![](screenshots/reports.jpg)
 
-### Settings
+---
+
+## Settings
 
 ![](screenshots/settings.jpg)
 
-## 📂 Project Structure
+---
+
+# 📂 Project Architecture
 
 ```
-Project
+Equine-Information-System
 │
-├── Analysis
+├── screenshots/
+├── README.md
 ├── Source Code
 ├── Database
-├── Images
+├── Analysis
 └── Documentation
 ```
 
-## 👨‍💻 Author
+---
+
+# 🎯 Project Objectives
+
+- Improve horse management
+- Simplify breeding monitoring
+- Centralize veterinary information
+- Optimize employee management
+- Generate useful reports
+- Improve farm productivity
+
+---
+
+# 🚀 Future Improvements
+
+- Mobile Application
+- Cloud Synchronization
+- RFID Horse Identification
+- AI-based Health Monitoring
+- Appointment Scheduling
+- Notification System
+
+---
+
+# 👨‍💻 Author
 
 **Ouared Salah Eddine**
 
 Master's Student in Software Engineering
 
-Interested in:
+Interested in
+
 - Artificial Intelligence
 - Machine Learning
+- Large Language Models (LLMs)
 - Medical AI
 - Software Engineering
-- LLM
+
+---
+
+<div align="center">
+
+⭐ If you like this project, consider giving it a star!
+
+</div>
